@@ -4,7 +4,7 @@ from PIL import Image
 
 def get_size(fp):
     """
-    retrieve the size of the file in KB.
+    Retrieve the size of the file in KB.
     :param fp: file path
     :return: the size in KB of the file
     """
